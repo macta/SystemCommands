@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TimM 8/19/2018 11:17",
+	"super" : "SycJumpToPostionCommand",
+	"category" : "SystemCommands-SourceNavigationCommands",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SycJumpToNextPostionCommand",
+	"type" : "normal"
+}

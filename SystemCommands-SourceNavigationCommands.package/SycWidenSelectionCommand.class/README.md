@@ -1,0 +1,1 @@
+I am a command to intelligently widen the current selection of code such that you can easily refactor either a variable, a statement or a wider block.

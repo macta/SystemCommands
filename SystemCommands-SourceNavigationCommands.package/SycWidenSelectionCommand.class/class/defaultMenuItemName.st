@@ -1,0 +1,3 @@
+accessing
+defaultMenuItemName
+	^'Widen Selection'

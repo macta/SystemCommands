@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TimM 8/19/2018 11:16",
+	"super" : "SycSourceCodeCommand",
+	"category" : "SystemCommands-SourceNavigationCommands",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SycSourceTextPositionCommand",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+I am an Abstract command for intelligently navigating withing source code (which may not yet be saved)
