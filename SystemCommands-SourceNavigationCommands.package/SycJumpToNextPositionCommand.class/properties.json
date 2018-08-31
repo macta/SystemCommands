@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "SycJumpToNextPostionCommand",
+	"name" : "SycJumpToNextPositionCommand",
 	"type" : "normal"
 }
